@@ -1,5 +1,5 @@
 fn main() {
-    for_loop_range()
+    for_loop_range();
 }
 
 fn nested_loop() {
